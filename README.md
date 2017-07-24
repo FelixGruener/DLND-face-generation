@@ -14,4 +14,5 @@ In this project we had to build a [Generative Adversarial Network](https://en.wi
 #### Project Review
 
 - Submission 1: [Requires Changes](https://review.udacity.com/#!/reviews/628318/shared)
+- Submission 2: [Meets Specifications](https://review.udacity.com/#!/reviews/629010/shared)
 
